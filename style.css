@@ -258,3 +258,5 @@ p{margin:0 0 1em}
 @media (min-width:981px){.top .top-in{width:auto;margin-inline:clamp(24px,4.6vw,96px)}}
 .osoba-kontakt{justify-self:start}
 @media (max-width:560px){.wiatrak{max-width:340px}}
+@media (min-width:981px){.kontakt{grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr)}}
+.kk a{overflow-wrap:break-word}
